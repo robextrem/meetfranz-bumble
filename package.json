@@ -1,0 +1,14 @@
+{
+  "id": "meetfranz-bumble",
+  "name": "Bumble",
+  "version": "1.0.0",
+  "description": "Bumble integration",
+  "main": "index.js",
+  "author": "Roberto Romero <robextremo@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bumble.com/app",
+    "hasNotificationSound": true,
+    "message": "Bumble"
+  }
+}
